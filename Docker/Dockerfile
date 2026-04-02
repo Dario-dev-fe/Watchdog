@@ -18,3 +18,5 @@ COPY --from=build /workspace/target/SeleniumApp.jar ./SeleniumApp.jar
 EXPOSE 8080
 
 ENTRYPOINT ["java", "-jar", "SeleniumApp.jar"]
+#docker build -t watchdog-selenium -f Docker/Dockerfile .
+#docker run --rm watchdog-selenium
