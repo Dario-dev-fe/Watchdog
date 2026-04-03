@@ -44,7 +44,7 @@ Prima di eseguire il progetto, assicurati di avere installato:
 
 2. **Interfaccia Utente**:
    - Nella finestra "WATCHDOG CONTROL" vedrai un campo di testo con un URL predefinito
-   - Modifica l'URL se necessario (default: https://www.animeunity.so/)
+   - Modifica l'URL se necessario 
    - Premi il pulsante **START** per avviare l'automazione
    - Chrome si aprirà automaticamente e inizierà il monitoraggio
    - Premi **STOP** per fermare l'automazione e chiudere il browser
